@@ -122,20 +122,16 @@
 </details>
 <!-- КОНЕЦ СКРЫТОГО БЛОКА -->
 
-<br>
-
 <div align="center">
+  
   <!-- Змейка -->
-  <img src="https://github.com/fuheshka/fuheshka/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Activity" />
+  <!-- Я поставил width="850" — это сделает её размером ровно с текст -->
+  <img src="https://github.com/fuheshka/fuheshka/blob/output/github-contribution-grid-snake.svg" width="700" alt="Activity Snake" />
   
   <br><br>
   
-  <!-- Компактная статистика --
-  <img src="https://github-readme-stats.vercel.app/api?username=fuheshka&show_icons=true&theme=radical&count_private=true&hide=html,css,jupyter%20notebook" height="150" />
-</div>
--->
+  <!-- 3D Город -->
+  <!-- Тоже фиксируем ширину, чтобы он не был гигантским -->
+  <img src="https://github.com/fuheshka/fuheshka/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D City" />
 
-  <!-- Город из коммитов -->
-<div align="center">
-  <img src="https://github.com/fuheshka/fuheshka/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
