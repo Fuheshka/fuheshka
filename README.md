@@ -122,16 +122,8 @@
 </details>
 <!-- КОНЕЦ СКРЫТОГО БЛОКА -->
 
+<!-- 3D Город -->
+<br>
 <div align="center">
-  
-  <!-- Змейка -->
-  <!-- Я поставил width="850" — это сделает её размером ровно с текст -->
-  <img src="https://github.com/fuheshka/fuheshka/blob/output/github-contribution-grid-snake.svg" width="700" alt="Activity Snake" />
-  
-  <br><br>
-  
-  <!-- 3D Город -->
-  <!-- Тоже фиксируем ширину, чтобы он не был гигантским -->
-  <img src="https://github.com/fuheshka/fuheshka/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D City" />
-
+  <img src="https://github.com/fuheshka/fuheshka/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3d city" />
 </div>
