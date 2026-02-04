@@ -32,8 +32,15 @@
   
   <!-- Пустая строка обязательна после summary, чтобы маркдаун работал -->
 
+  ### 🧬 [BIOMASS](https://github.com/Fuheshka/myindie-january-rush-lvl-8)
+  > **Game Jam Entry**
+  > A project developed in a short time for MyIndie January Rush Lvl 8.
+  > <br> `Unity` `Jam`
+
+  ---
+
   <!-- Cursed by The Sword -->
-  ### ⏱️ [Cursed by The Sword](https://github.com/Fuheshka/myindie-january-rush-lvl-7)
+  ### ⚔️ [Cursed by The Sword](https://github.com/Fuheshka/myindie-january-rush-lvl-7)
   > **Game Jam Entry**
   > A project developed in a short time for MyIndie January Rush Lvl 7.
   > <br> `Unity` `Jam`
@@ -66,7 +73,7 @@
   ---
 
   <!-- Chamber Loop -->
-  ### 🌀 [Chamber Loop](https://github.com/Fuheshka/ChamberLoop)
+  ### ⚔️ [Chamber Loop](https://github.com/Fuheshka/ChamberLoop)
   > **Logic / Puzzle**
   > Vampire Survivors project for the subject at the university.
   > <br> `Unity` `Roguelite`
