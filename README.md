@@ -1,136 +1,71 @@
 <div align="center">
-  <h1>Fuheshka</h1>
-  <h3>Unity Developer • Indie Game Creator</h3>
-  
-  <p>
-    I make games, study, participate in jams.<br>
-    My builds and demos:
-  </p>
 
-  <a href="https://fuheshka.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" height="35" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="800" alt="Fuheshka — makes things, ships some of them">
+</picture>
+
+<br><br>
+
+I make games in Unity and Godot, show up at game jams, and write small tools whenever something on my Mac gets in the way.<br>
+Some of it ships, some of it doesn't, and most of it is written with AI help, which I'm not hiding.
+
+<a href="https://fuheshka.itch.io/">itch.io</a> &nbsp;·&nbsp;
+<a href="https://fuheshka.is-a.dev/">portfolio</a> &nbsp;·&nbsp;
+<a href="https://t.me/fuheshka">telegram</a> &nbsp;·&nbsp;
+<a href="mailto:fuheshka@gmail.com">email</a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="460" alt="Unity, C#, Godot, Rust, Python, TypeScript, Aseprite, Photoshop">
+</picture>
+
+<br><br><br>
+
+<!-- lights:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lights-dark.svg">
+  <img src="assets/lights-light.svg" width="720" alt="Lights on: the repos I pushed to most recently">
+</picture>
+<br>
+<sub>lights on right now: what I touched last, one lit window per commit in the past 30 days</sub>
+<br>
+<sub><a href="https://github.com/Fuheshka/game-trend-radar">game-trend-radar</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/Antigravity-Unlocker">Antigravity-Unlocker</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/AntigravityQuota">AntigravityQuota</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/photo-healer">photo-healer</a></sub>
+<!-- lights:end -->
+
 </div>
 
-<br>
-
-<div align="center">
-  <!-- Стек технологий (всегда виден) -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-7D55EC?style=for-the-badge&logo=aseprite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
-<br>
-
-<!-- НАЧАЛО СКРЫТОГО БЛОКА -->
+<!-- project history, hidden for now
 <details>
-  <summary><h3>📂 Projects History (Click to expand)</h3></summary>
-  
-  <!-- Пустая строка обязательна после summary, чтобы маркдаун работал -->
+<summary><b>Jam archive</b> and other small things</summary>
 
-  ### 🧬 [BIOMASS](https://github.com/Fuheshka/myindie-january-rush-lvl-8)
-  > **Game Jam Entry**
-  > A project developed in a short time for MyIndie January Rush Lvl 8.
-  > <br> `Unity` `Jam`
+<br>
 
-  ---
+- [BIOMASS](https://fuheshka.itch.io/biomass) — MyIndie January Rush lvl 8 · `Unity` `Jam`
+- [Cursed by The Sword](https://fuheshka.itch.io/cursed-by-the-sword) — MyIndie January Rush lvl 7 · `Unity` `Jam`
+- [Quiet Escape](https://github.com/Fuheshka/Quiet-Escape) — stealth puzzle, hide from enemies using the environment · `Unity`
+- [No Escape From Wonderland](https://github.com/Fuheshka/No-Escape-From-Wonderland) — dark Alice in a Vampire Survivors mould · `Unity`
+- Bad Bunny Day — action arcade: character controller, eating system, enemy AI · `Unity` `Jam`
+- [Chamber Loop](https://github.com/Fuheshka/ChamberLoop) — roguelite made for a university course · `Unity`
+- [CODEBREAKER: Infection Protocol](https://github.com/AndreyKhara/CODEBREAKER-Infection-Protocol) — pixel shooter with modular weapons · `Unity` `Team`
+- [Edges Of Reality](https://github.com/MSchulcz/EdgesOfReality) — metroidvania across two worlds · `Unity` `Team`
+- [Pizza Hunt](https://github.com/Fuheshka/PizzaRunnerO) — PS1-style endless runner, procedural paths · `Unity` `Jam`
+- [Bunny Jump](https://github.com/Fuheshka/BunnyJump) — first try at a web engine · `Phaser 3` `JavaScript`
 
-  <!-- Cursed by The Sword -->
-  ### ⚔️ [Cursed by The Sword](https://github.com/Fuheshka/myindie-january-rush-lvl-7)
-  > **Game Jam Entry**
-  > A project developed in a short time for MyIndie January Rush Lvl 7.
-  > <br> `Unity` `Jam`
-
-  ---
-
-  <!-- Quiet Escape --
-  ### 🤫 [Quiet Escape](https://github.com/Fuheshka/Quiet-Escape)
-  > **Stealth / Puzzle**
-  > Stealth mechanics, where you need to avoid enemies using the environment.
-  > <br> `Unity` `Stealth`
-
-  ---
-  -->
-
-  <!-- No Escape From Wonderland --
-  ### 🎩 [No Escape From Wonderland](https://github.com/Fuheshka/No-Escape-From-Wonderland)
-  > **Horror / Adventure**
-  > A dark interpretation of Alice in Wonderland in the style of Vampire Survivors
-  > <br> `Unity` `Atmosphere`
-
-  ---
--->
-  <!-- Bad Bunny Day -->
-  ### 🥕 [Bad Bunny Day](https://github.com/Fuheshka/Bad-Bunny-Day)
-  > **Action Arcade**
-  > Dynamic gameplay for the rabbit, implementation of the character controller, eating system, enemy AI.
-  > <br> `Unity` `Action` `Jam`
-
-  ---
-
-  <!-- Chamber Loop -->
-  ### ⚔️ [Chamber Loop](https://github.com/Fuheshka/ChamberLoop)
-  > **Logic / Puzzle**
-  > Vampire Survivors project for the subject at the university.
-  > <br> `Unity` `Roguelite`
-
-  ---
-
-  <!-- CODEBREAKER -->
-  ### 💻 [CODEBREAKER: Infection Protocol](https://github.com/AndreyKhara/CODEBREAKER-Infection-Protocol)
-  > **Sci-Fi / Tactical**
-  > A dynamic pixel shooter about modular weapons and an unstable digital world.
-  > <br> `Unity` `Teamwork`
-
-  ---
-
-  <!-- L.E.A.V.E -->
-  ### 🚪 [L.E.A.V.E](https://github.com/Fuheshka/L.E.A.V.E)
-  > **Puzzle Platformer**
-  > Game with the mechanics of "time shadows" (Time Echoes). The player interacts with his past actions.
-  > <br> `Unity 2D` `Time Mechanics` `Jam`
-
-  ---
-
-  <!-- Resource Vortex -->
-  ### ♻️ [Resource Vortex](https://github.com/Fuheshka/ResourceVortex)
-  > **Tower Defense / Management**
-  > Resource management and garbage disposal.
-  > <br> `Unity 6` `ShaderLab` `Strategy` `Jam`
-
-  ---
-
-  <!-- Edges Of Reality -->
-  ### 🌑 [Edges Of Reality](https://github.com/MSchulcz/EdgesOfReality)
-  > **Metroidvania**
-  > Exploration of two worlds (Sleam and Reality), complex architecture of the project.
-  > <br> `Unity` `Metroidvania` `Collab`
-
-  ---
-
-  <!-- Pizza Runner O -->
-  ### 🍕 [Pizza Hunt](https://github.com/Fuheshka/PizzaRunnerO)
-  > **Endless Runner**
-  > PS1 style. Procedural path generation and arcade physics.
-  > <br> `Unity` `Dreamteck` `Retro Style` `Jam`
-
-  ---
-
-  <!-- Bunny Jump -->
-  ### 🐰 [Bunny Jump](https://github.com/Fuheshka/BunnyJump)
-  > **2D Platformer**
-  > My experience with web engines and JavaScript.
-  > <br> `Phaser 3` `JavaScript` `Web`
+Tools: [AntigravityQuota](https://github.com/Fuheshka/AntigravityQuota) (macOS menu bar quota monitor) ·
+[YamKeys](https://github.com/Fuheshka/YamKeys) (media keys for Yandex Music) ·
+[photo-healer](https://github.com/Fuheshka/photo-healer) (rescues TRIM-damaged photos) ·
+[web-media-converter](https://fuheshka.github.io/web-media-converter/) (FFmpeg in the browser)
 
 </details>
-<!-- КОНЕЦ СКРЫТОГО БЛОКА -->
+-->
 
-<!-- 3D Город -->
-<br>
+<br><br>
+
 <div align="center">
-  <img src="https://github.com/fuheshka/fuheshka/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3d city" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="760" alt="Isometric rainbow city built from my GitHub contributions">
+  <br>
+  <sub>this city is built from commits. it's the longest-running game here.</sub>
 </div>
