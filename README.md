@@ -32,7 +32,7 @@ Some of it ships, some of it doesn't, and most of it is written with AI help, wh
 <br>
 <sub>lights on right now: what I touched last, one lit window per commit in the past 30 days</sub>
 <br>
-<sub><a href="https://github.com/Fuheshka/balance-progression-studio">balance-progression-studio</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/game-trend-radar">game-trend-radar</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/Antigravity-Unlocker">Antigravity-Unlocker</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/homebrew-tap">homebrew-tap</a></sub>
+<sub><a href="https://github.com/Fuheshka/centrinvest-profession-game">centrinvest-profession-game</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/balance-progression-studio">balance-progression-studio</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/game-trend-radar">game-trend-radar</a> &nbsp;·&nbsp; <a href="https://github.com/Fuheshka/Antigravity-Unlocker">Antigravity-Unlocker</a></sub>
 <!-- lights:end -->
 
 </div>
